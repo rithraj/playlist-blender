@@ -1,4 +1,4 @@
-**CS 4641 Project Final Report: Playlist Creation and Similarity**
+**Playlist Creation and Similarity**
 
 **Introduction/Background**
 Music is a constantly growing and changing field with new artists and songs popping up everyday. As more and more people have begun using different applications such as Apple Music, Spotify, etc., the process of sharing that music with their friends has grown more complex. With the sheer amount of music now available in the world, automatically curated playlists are becoming increasingly more important to both user enjoyment and artist exposure. Being able to generate playlists based on the tastes of two distinct users opens up multiple venues and could have great potential for the future of music streaming and sharing.
